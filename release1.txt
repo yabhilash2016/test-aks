@@ -1,0 +1,4 @@
+mcr.microsoft.com/azuredocs/aks-helloworld:v1
+quay.io/jetstack/cert-manager-cainjector:v1.9.1
+quay.io/jetstack/cert-manager-controller:v1.9.1
+quay.io/jetstack/cert-manager-webhook:v1.9.1
